@@ -135,6 +135,7 @@ Awesome-GPU
 - [**Allinea MAP**](https://www.allinea.com/products/map/)
 - [**Open|SpeedShop**](https://openspeedshop.org/)
 - [**HPCToolkit**](http://hpctoolkit.org/)
+- [**Ingero**](https://github.com/ingero-io/ingero) - eBPF-based GPU causal observability agent. Traces CUDA Runtime/Driver APIs via uprobes and host kernel events to build causal chains explaining GPU latency. <2% overhead, production-safe.
 - [**NVIDIA Nsight Systems**](https://developer.nvidia.com/nsight-systems)
 - [**NVIDIA Nsight Compute**](https://developer.nvidia.com/nsight-compute)
 - [**SASSI**](https://github.com/NVlabs/SASSI/blob/master/doc/SASSI-Tutorial-Micro2015.pptx)
